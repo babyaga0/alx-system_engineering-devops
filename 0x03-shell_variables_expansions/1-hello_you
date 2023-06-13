@@ -1,2 +1,3 @@
-#!/bin/bash 
-echo $USER
+#!/bin/bash
+so=$(whoami)
+echo "heloo $so"
